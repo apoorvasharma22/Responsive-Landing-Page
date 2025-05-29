@@ -1,1 +1,2 @@
 # Responsive-Landing-Page
+This is a responsive landing page for Chill Brew, a fictional beverage brand, built using HTML, CSS, and JavaScript. The design features a clean and modern layout optimized for all screen sizes, including desktops, tablets, and mobile devices. Smooth scrolling, interactive UI elements, and engaging visuals enhance the user experience, making it an ideal template for cafes, beverage startups, or similar businesses. Feel free to explore, customize, and use it as a base for your own projects.
